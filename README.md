@@ -6,7 +6,7 @@ This repository contains an end-to-end data analysis project focusing on hotel b
 
 ## Project Structure
 
-- **Data**: The data directory contains the dataset used for the analysis in Excel format. Ensure the data file is named appropriately (e.g., `hotel_booking_data.xlsx`).
+- **Data**: The data directory contains the dataset used for the analysis in Excel format. Ensure the data file is named appropriately (e.g., `hotel_booking.csv`).
 
 - **Analysis File**: The analysis is conducted primarily in Excel. The main analysis file provides a step-by-step overview of the data cleaning, exploration, visualization, and statistical analysis.
 
